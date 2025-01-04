@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 
 - 🎓 **University Student** pursuing a degree in Computer Science.  
 - 💻 Specializing in **Java**, **Spring Boot**, **REST APIs**, and **JavaFX**.  
-- 🌱 Currently learning **advanced Spring Boot** features, **microservices**, and **Android development** with **Kotlin**.  
+- 🌱 Currently learning **advanced Spring Boot** features, **microservices**, and **Android development** with **Java**.  
 <!--- ⚡ **Fun Fact:** I’ve built over **six mobile apps** with my university colleague, focusing on **Java-based mobile projects**.
 --->
 ---
@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 |----------------|-----------------------------------|
 | **Back-End**   | Java, Spring Boot, REST APIs      |
 | **Front-End**  | HTML, CSS, JavaScript, React      |
-| **Mobile**     | Android (Kotlin), Firebase        |
+| **Mobile**     | Android (Java), Firebase        |
 | **Database**   | MySQL, PostgreSQL, SQLite         |
-| **Tools**      | Git, Maven, Docker, Apache DBCP   |
+| **Tools**      | Git, Maven, Docker   |
 
 ---
 
@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 |------------------------------|-------------------------------------------------------------|-----------------------------------|
 | **Real-Time Voting System**   | JavaFX-based app with real-time voting using socket programming | Java, JavaFX, Socket Programming |
 | **Canvas Drawing App**        | Web-based canvas with drawing, erasing, and resizing         | HTML, CSS, JavaScript            |
-| **REST API**                  | RESTful API in C# connecting to a SQL database               | C#, SQL                          |
 
 ---
 
@@ -41,7 +40,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 
 - **Advanced Spring Boot**: Security, microservices, and API integrations  
 - **Socket Programming**: Building **real-time applications**  
-- **Android Development**: Using **Kotlin** and **Android Studio**
 
 ---
 
@@ -61,7 +59,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 
 I’m always open to collaborating on interesting projects or discussing tech! Feel free to reach out:
 
-- 📧 **Email:** yousef@example.com  
+- 📧 **Email:** ellbanyousef@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/yousef-el-llban](#)  
 - 🖥️ **GitHub:** [github.com/Yousef-El-llban](#)
 
@@ -69,7 +67,7 @@ I’m always open to collaborating on interesting projects or discussing tech! F
 
 ## 🎯 Fun Fact
 
-I enjoy **solving coding challenges** and **collaborating** on mobile projects using **Kotlin**. Also, I love exploring **new technologies** and **real-time systems** that make applications more interactive.
+I enjoy **solving coding challenges** and **collaborating** on mobile projects using **Java**. Also, I love exploring **new technologies** and **real-time systems** that make applications more interactive.
 
 
 
