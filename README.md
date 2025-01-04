@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 - 🎓 **University Student** pursuing a degree in Computer Science.  
 - 💻 Specializing in **Java**, **Spring Boot**, **REST APIs**, and **JavaFX**.  
 - 🌱 Currently learning **advanced Spring Boot** features, **microservices**, and **Android development** with **Kotlin**.  
-- ⚡ **Fun Fact:** I’ve built over **six mobile apps** with my university colleague, focusing on **Kotlin-based mobile projects**.
-
+<!--- ⚡ **Fun Fact:** I’ve built over **six mobile apps** with my university colleague, focusing on **Java-based mobile projects**.
+--->
 ---
 
 ## 🧑‍💻 Tech Stack
