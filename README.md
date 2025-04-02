@@ -43,17 +43,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousef-El-llban&show_icons=true&theme=tokyonight" alt="Yousef's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousef-El-llban&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🤝 Let’s Connect!
 
