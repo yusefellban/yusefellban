@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** passionate about bu
 |------------------------------|-------------------------------------------------------------|-----------------------------------|
 | **Real-Time Voting System**   | JavaFX-based app with real-time voting using socket programming | Java, JavaFX, Socket Programming |
 | **Canvas Drawing App**        | Web-based canvas with drawing, erasing, and resizing         | HTML, CSS, JavaScript            |
+| **Smart Learning Assistant Service**   |  AI-powered Q&A microservice that leverages advanced natural language processing to deliver real-time, personalized answers. | spring framework, microservice, spring AI,spring datat |
 
 ---
 
